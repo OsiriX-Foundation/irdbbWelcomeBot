@@ -1,0 +1,17 @@
+{
+  "name": "irdbbwelcomebot",
+  "version": "1.0.0",
+  "description": "IRDBB welcome bot, add new user in the main album.",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.3.1"
+  }
+}
